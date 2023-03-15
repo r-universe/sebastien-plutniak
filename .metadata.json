@@ -1,10 +1,10 @@
 [
   {
-    "package": "archeoViz",
+    "package": "archeofrag",
     "oncran": true
   },
   {
-    "package": "archeofrag",
+    "package": "archeoViz",
     "oncran": true
   }
 ]
