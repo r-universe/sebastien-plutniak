@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "archeofrag"]
-	path = archeofrag
-	url = https://github.com/sebastien-plutniak/archeofrag
 [submodule "archeoViz"]
 	path = archeoViz
 	url = https://github.com/sebastien-plutniak/archeoviz
+[submodule "archeofrag"]
+	path = archeofrag
+	url = https://github.com/sebastien-plutniak/archeofrag
