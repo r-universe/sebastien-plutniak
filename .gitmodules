@@ -8,3 +8,6 @@
 [submodule "archeofrag"]
 	path = archeofrag
 	url = https://github.com/sebastien-plutniak/archeofrag
+[submodule "archeofrag.gui"]
+	path = archeofrag.gui
+	url = https://github.com/sebastien-plutniak/archeofrag.gui
