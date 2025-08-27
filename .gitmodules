@@ -11,3 +11,6 @@
 [submodule "archeofrag.gui"]
 	path = archeofrag.gui
 	url = https://github.com/sebastien-plutniak/archeofrag.gui
+[submodule "spatialCatalogueViewer"]
+	path = spatialCatalogueViewer
+	url = https://github.com/sebastien-plutniak/spatialcatalogueviewer
