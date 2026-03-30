@@ -11,6 +11,9 @@
 [submodule "archeofrag.gui"]
 	path = archeofrag.gui
 	url = https://github.com/sebastien-plutniak/archeofrag.gui
+[submodule "leaflet.extras"]
+	path = leaflet.extras
+	url = https://github.com/sebastien-plutniak/leaflet.extras
 [submodule "spatialCatalogueViewer"]
 	path = spatialCatalogueViewer
 	url = https://github.com/sebastien-plutniak/spatialcatalogueviewer
